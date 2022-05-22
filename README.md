@@ -1,3 +1,3 @@
 # modele-releve-upl
 Model de relevé de cote fait avec html, css et bootrap
-![alt text](Capture web.jpeg)
+![Modele](assets/img/Capture%20web.jpeg)
